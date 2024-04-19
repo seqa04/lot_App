@@ -1,0 +1,71 @@
+1713438816938:help
+1713439318147:helo
+1713439321728:help
+1713439328610:getAllPassengers
+1713439490132:stacktrace
+1713439581158:getAllPassengers
+1713439588415:stacktrace
+1713439705117:getAllPassengers
+1713439754226:stacktrace
+1713439943025:getAllPassengers
+1713440542867:help
+1713440732403:getAllFlights
+1713441200795:addPassengers Monia Nowak 6666
+1713441217616:getAllPassengers
+1713443041099:clear
+1713443194348:help
+1713443203379:history
+1713450072825:getAllPassengers
+1713450075305:clear
+1713451257550:addFlight LO335 Krakow Bialystok 2025-12-10 13:49:00 20
+1713451342457:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00 20
+1713451355273:getAllFlights
+1713451432250:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00 20
+1713451440692:getAllFlights
+1713451447646:getFlightByFlightNumber
+1713451468946:getFlightByFlightNumber LO335
+1713451482946:deleteFlightByFlightNumber LO335
+1713451487749:getAllFlights
+1713451491848:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00 20
+1713451496394:getAllFlights
+1713451513704:updateDepartureAirport LO335 Albukerkie
+1713451521999:getAllFlights
+1713451538158:updateDestinationAirport LO335 Kair
+1713451556835:updateDepartureDate LO335 2022-12-10_13:49:00
+1713451603298:getAllFlights
+1713451708497:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00
+1713451723085:addFlight LO33555 Krakow Bialystok 2022-12-10_13:49:00
+1713451868714:getAllFlights
+1713451936919:updateDepartureDate LO33555 2023-12-10_13:49:00
+1713451954845:getFlightByFlightNumber LO33555
+1713452037370:updateDepartureDate LO33555 2023-12-10_13:49:11
+1713452042248:getFlightByFlightNumber LO33555
+1713452058627:findFlights
+1713452072538:stacktrace
+1713452349161:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00 20
+1713452425313:addFlight LO3351 Bialystok Krakow 2022-12-10_13:49:00 0
+1713452442559:findFlights
+1713452480943:stacktrace
+1713452578207:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00 20
+1713452582725:addFlight LO3351 Bialystok Krakow 2022-12-10_13:49:00 0
+1713452586369:findFlights
+1713452599614:findFlights --freeSeats
+1713452644226:findFlights --freeSeats --departureAirport Bialystok
+1713452664744:findFlights --departureAirport Bialystok
+1713452675567:findFlights --destinationAirport Bialystok
+1713452700879:findFlights --from 2022-12-10_11:49:00
+1713452721913:findFlights --from 2024-12-10_11:49:00
+1713452734217:findFlights --to 2024-12-10_11:49:00
+1713452754864:findFlights --to 2025-12-10_11:49:00 --from 2020-12-10_11:49:00
+1713452769591:findFlights --to 2026-12-10_11:49:00 --from 2020-12-10_11:49:00
+1713452913982:addFlight LO335 Krakow Bialystok 2025-12-10_13:49:00 20
+1713452999909:addPassenger seba seba 111
+1713453014789:addPassengerToFlight 1 LO335
+1713453030869:getAllPassengers
+1713459762249:getPassengerById 33
+1713460295914:addPassenger
+1713462229232:addFlight LO335 Krakow Bialystok 2025-12-0/13:49 20
+1713462237996:stacktrace
+1713467193324:help
+1713467346854:help updateDestinationAirport
+1713518787848:help
